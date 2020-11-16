@@ -23,7 +23,7 @@ const question = [
     },
     {
         type:'checkbox',
-        message:' Prefferred method of communication?',
+        message:' Preferred method of communication?',
         name: 'contact',
         choices: ['Phone', 'Text Message', 'Email'],
     }

@@ -1,14 +1,9 @@
 # Janae
-  ![license](https://img.shields.io/badge/license-MIT-blue)
+  ![license](https://img.shields.io/badge/license-APACHE%202.0-blue)
 
   [Github](https://github.com/janaec)
 
-  
 
-
-  
-
-  ## Description
 
 
 

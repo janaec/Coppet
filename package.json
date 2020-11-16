@@ -1,0 +1,23 @@
+{
+  "name": "Coppet",
+  "version": "1.0.0",
+  "description": "![license](https://img.shields.io/badge/license-MIT-blue)",
+  "main": "homework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janaec/Coppet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janaec/Coppet/issues"
+  },
+  "homepage": "https://github.com/janaec/Coppet#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
